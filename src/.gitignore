@@ -1,8 +1,10 @@
 # Node dependencies
 node_modules/
+Backend/node_modules/
 
 # Environment variables
 .env
+Backend/.env
 
 # Build outputs
 dist/
